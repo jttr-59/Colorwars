@@ -1,0 +1,10 @@
+23:55:44 **** Incremental Build of configuration Debug for project TLC5947_Serial_System ****
+make -j12 all 
+arm-none-eabi-size  TLC5947_Serial_System.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10424	     12	   1732	  12168	   2f88	TLC5947_Serial_System.elf
+Finished building: default.size.stdout
+ 
+
+23:55:44 Build Finished. 0 errors, 0 warnings. (took 201ms)
+

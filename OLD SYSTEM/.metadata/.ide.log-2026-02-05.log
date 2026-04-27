@@ -1,0 +1,443 @@
+2026-02-05 00:09:25,584 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 869554416 Bytes (1073741824)
+2026-02-05 00:09:27,080 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 901391272 Bytes (1073741824)
+2026-02-05 00:09:27,324 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 944909224 Bytes (1073741824)
+2026-02-05 00:09:27,743 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:09:27,744 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:09:27,744 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:09:27,744 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:09:27,744 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:09:27,745 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:09:27,745 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:09:27,871 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:09:28,139 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:09:28,170 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:09:28,305 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:09:28,411 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:09:28,680 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:09:28,685 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:09:28,762 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:09:28,774 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:09:28,924 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:09:28,929 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:09:28,998 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:09:29,007 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:09:29,077 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:09:29,100 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:09:29,110 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:09:29,204 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:09:29,209 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:09:29,301 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:09:29,590 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 125mS.
+2026-02-05 00:09:29,592 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:09:29,669 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:09:30,298 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 706mS.
+2026-02-05 00:09:30,299 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2026-02-05 00:09:30,300 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:09:34,059 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 774197680 Bytes (1073741824)
+2026-02-05 00:09:34,238 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:09:34,238 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:09:34,238 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:09:34,238 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:09:34,238 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:09:34,238 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:09:34,239 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:09:34,365 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:09:34,418 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:09:34,434 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:09:34,483 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:09:34,544 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:09:34,598 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:09:34,602 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:09:34,657 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:09:34,669 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:09:34,743 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:09:34,747 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:09:34,792 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:09:34,799 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:09:34,851 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:09:34,864 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:09:34,884 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:09:34,941 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:09:34,946 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:09:35,028 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:09:35,284 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 94mS.
+2026-02-05 00:09:35,286 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:09:35,354 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:09:35,880 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 594mS.
+2026-02-05 00:09:35,881 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2026-02-05 00:09:35,883 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:13:59,678 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 676141736 Bytes (1073741824)
+2026-02-05 00:14:01,457 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 725951144 Bytes (1073741824)
+2026-02-05 00:14:01,846 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:14:01,846 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:14:01,846 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:14:01,846 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:14:01,846 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:14:01,846 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:14:01,847 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:14:01,952 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:14:02,130 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:14:02,156 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:14:02,270 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:14:02,360 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:14:02,449 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:14:02,454 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:14:02,527 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:14:02,540 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:14:02,654 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:14:02,659 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:14:02,726 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:14:02,739 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:14:02,818 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:14:02,839 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:14:02,851 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:14:02,924 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:14:02,930 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:14:03,032 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:14:03,297 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 97mS.
+2026-02-05 00:14:03,299 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:14:03,392 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:14:04,225 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 925mS.
+2026-02-05 00:14:04,226 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2026-02-05 00:14:04,228 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:17:07,642 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:17:07,751 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:17:10,473 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 692664648 Bytes (1073741824)
+2026-02-05 00:17:11,870 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 721723720 Bytes (1073741824)
+2026-02-05 00:17:13,432 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 769958216 Bytes (1073741824)
+2026-02-05 00:17:13,630 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:17:13,630 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:17:13,630 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:17:13,630 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:17:13,630 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:17:13,630 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:17:13,631 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:17:13,712 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:17:13,761 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:17:13,780 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:17:13,829 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:17:13,885 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:17:13,941 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:17:13,945 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:17:13,992 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:17:14,001 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:17:14,069 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:17:14,072 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:17:14,116 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:17:14,123 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:17:14,176 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:17:14,190 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:17:14,199 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:17:14,249 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:17:14,254 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:17:14,347 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:17:14,591 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 94mS.
+2026-02-05 00:17:14,593 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:17:14,686 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:17:15,226 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 633mS.
+2026-02-05 00:17:15,227 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:17:15,229 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2026-02-05 00:18:07,784 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:18:07,883 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:18:10,432 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 672528936 Bytes (1073741824)
+2026-02-05 00:18:11,997 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 700840488 Bytes (1073741824)
+2026-02-05 00:18:13,798 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 749074984 Bytes (1073741824)
+2026-02-05 00:18:14,047 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:18:14,047 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:18:14,047 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:18:14,047 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:18:14,047 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:18:14,048 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:18:14,048 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:18:14,137 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:18:14,186 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:18:14,203 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:18:14,273 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:18:14,333 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:18:14,399 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:18:14,404 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:18:14,455 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:18:14,464 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:18:14,535 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:18:14,539 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:18:14,581 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:18:14,589 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:18:14,645 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:18:14,658 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:18:14,665 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:18:14,718 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:18:14,722 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:18:14,797 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:18:15,099 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 107mS.
+2026-02-05 00:18:15,101 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:18:15,195 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:18:15,783 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 682mS.
+2026-02-05 00:18:15,784 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2026-02-05 00:18:15,786 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:18:33,985 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:18:34,067 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:18:36,479 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:18:36,566 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:18:37,631 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:18:37,701 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:18:38,832 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:18:38,900 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:18:41,057 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 971321856 Bytes (1073741824)
+2026-02-05 00:18:42,173 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 999107072 Bytes (1073741824)
+2026-02-05 00:18:43,693 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 695012352 Bytes (1073741824)
+2026-02-05 00:18:43,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:18:43,920 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:18:43,921 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:18:43,921 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:18:43,921 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:18:43,921 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:18:43,922 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:18:44,015 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:18:44,066 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:18:44,085 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:18:44,151 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:18:44,202 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:18:44,257 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:18:44,261 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:18:44,306 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:18:44,315 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:18:44,381 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:18:44,384 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:18:44,427 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:18:44,434 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:18:44,487 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:18:44,499 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:18:44,507 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:18:44,557 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:18:44,561 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:18:44,634 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:18:44,887 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 93mS.
+2026-02-05 00:18:44,889 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:18:44,973 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:18:45,498 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 609mS.
+2026-02-05 00:18:45,498 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:18:45,500 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:28:13,154 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:28:16,605 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 751518728 Bytes (1073741824)
+2026-02-05 00:28:17,880 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 780356616 Bytes (1073741824)
+2026-02-05 00:28:22,472 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 846416904 Bytes (1073741824)
+2026-02-05 00:28:22,828 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:28:22,828 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:28:22,828 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:28:22,828 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:28:22,829 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:28:22,829 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:28:22,830 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:28:22,920 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:28:23,177 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:28:23,204 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:28:23,351 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:28:23,453 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:28:23,761 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:28:23,768 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:28:23,866 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:28:23,878 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:28:24,016 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:28:24,020 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:28:24,069 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:28:24,077 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:28:24,139 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:28:24,157 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:28:24,166 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:28:24,235 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:28:24,240 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:28:24,329 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:28:24,596 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 98mS.
+2026-02-05 00:28:24,598 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:28:24,677 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:28:25,423 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 825mS.
+2026-02-05 00:28:25,423 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:28:25,425 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:29:08,647 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:29:59,202 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 938590776 Bytes (1073741824)
+2026-02-05 00:30:00,360 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 966902328 Bytes (1073741824)
+2026-02-05 00:30:01,886 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 660186864 Bytes (1073741824)
+2026-02-05 00:30:02,170 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:30:02,170 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:30:02,171 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:30:02,171 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:30:02,171 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:30:02,171 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:30:02,172 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:30:02,266 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:30:02,314 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:30:02,329 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:30:02,377 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:30:02,428 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:30:02,484 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:30:02,488 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:30:02,540 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:30:02,549 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:30:02,631 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:30:02,635 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:30:02,682 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:30:02,689 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:30:02,744 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:30:02,758 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:30:02,765 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:30:02,817 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:30:02,821 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:30:02,898 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:30:03,176 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 106mS.
+2026-02-05 00:30:03,178 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:30:03,252 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:30:03,781 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 603mS.
+2026-02-05 00:30:03,781 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:30:03,783 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:31:01,557 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 920770424 Bytes (1073741824)
+2026-02-05 00:31:02,920 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 948555640 Bytes (1073741824)
+2026-02-05 00:31:04,155 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 676560840 Bytes (1073741824)
+2026-02-05 00:31:04,351 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:31:04,351 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:31:04,351 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:31:04,351 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:31:04,351 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:31:04,352 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:31:04,353 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:31:04,441 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:31:04,487 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:31:04,501 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:31:04,549 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:31:04,598 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:31:04,652 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:31:04,656 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:31:04,704 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:31:04,713 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:31:04,782 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:31:04,786 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:31:04,829 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:31:04,836 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:31:04,888 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:31:04,901 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:31:04,909 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:31:04,960 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:31:04,964 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:31:05,038 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:31:05,288 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 90mS.
+2026-02-05 00:31:05,290 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:31:05,373 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:31:06,009 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 719mS.
+2026-02-05 00:31:06,010 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:31:06,011 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:31:20,332 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:32:35,570 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 1000285344 Bytes (1073741824)
+2026-02-05 00:32:36,949 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 680995864 Bytes (1073741824)
+2026-02-05 00:32:38,254 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 734496360 Bytes (1073741824)
+2026-02-05 00:32:38,391 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:32:38,391 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:32:38,391 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:32:38,391 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:32:38,391 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:32:38,391 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:32:38,393 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:32:38,474 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:32:38,524 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:32:38,539 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:32:38,589 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:32:38,637 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:32:38,688 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:32:38,692 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:32:38,739 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:32:38,748 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:32:38,818 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:32:38,822 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:32:38,864 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:32:38,871 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:32:38,923 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:32:38,935 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:32:38,944 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:32:38,993 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:32:38,998 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:32:39,067 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:32:39,321 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 92mS.
+2026-02-05 00:32:39,323 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:32:39,408 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:32:39,895 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 572mS.
+2026-02-05 00:32:39,896 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2026-02-05 00:32:39,897 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:37:19,972 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:37:20,043 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:37:22,407 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 955296296 Bytes (1073741824)
+2026-02-05 00:37:24,412 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 658535288 Bytes (1073741824)
+2026-02-05 00:37:24,682 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:37:24,682 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:37:24,682 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:37:24,682 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:37:24,682 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:37:24,682 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:37:24,683 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:37:24,781 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:37:24,840 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:37:24,855 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:37:24,940 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:37:24,991 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:37:25,044 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:37:25,049 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:37:25,097 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:37:25,105 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:37:25,182 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:37:25,186 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:37:25,240 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:37:25,251 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:37:25,313 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:37:25,332 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:37:25,343 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:37:25,395 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:37:25,399 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:37:25,473 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:37:25,741 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 92mS.
+2026-02-05 00:37:25,743 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:37:25,819 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:37:26,399 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 656mS.
+2026-02-05 00:37:26,400 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 1mS.
+2026-02-05 00:37:26,401 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:38:19,114 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:38:19,183 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2026-02-05 00:38:21,481 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 945763488 Bytes (1073741824)
+2026-02-05 00:38:22,618 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 973548704 Bytes (1073741824)
+2026-02-05 00:38:23,907 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 698621048 Bytes (1073741824)
+2026-02-05 00:38:24,117 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2026-02-05 00:38:24,117 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2026-02-05 00:38:24,117 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2026-02-05 00:38:24,117 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2026-02-05 00:38:24,117 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USART
+2026-02-05 00:38:24,117 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2026-02-05 00:38:24,118 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2026-02-05 00:38:24,199 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp_save
+2026-02-05 00:38:24,245 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\license.tmp
+2026-02-05 00:38:24,258 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp_save
+2026-02-05 00:38:24,308 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\gpio.tmp
+2026-02-05 00:38:24,349 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c_save
+2026-02-05 00:38:24,406 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_it.c
+2026-02-05 00:38:24,410 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h_save
+2026-02-05 00:38:24,462 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_it.h
+2026-02-05 00:38:24,473 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c_save
+2026-02-05 00:38:24,543 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\stm32f4xx_hal_msp.c
+2026-02-05 00:38:24,546 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp_save
+2026-02-05 00:38:24,593 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\MXTmpFiles\system.tmp
+2026-02-05 00:38:24,600 [INFO] CodeEngine:321 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h_save
+2026-02-05 00:38:24,654 [INFO] CodeEngine:345 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\stm32f4xx_hal_conf.h
+2026-02-05 00:38:24,669 [WARN] IPConfigManager:3238 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2026-02-05 00:38:24,677 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h_save
+2026-02-05 00:38:24,727 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Inc\main.h
+2026-02-05 00:38:24,731 [INFO] CodeEngine:265 - oldGeneratedFile, C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c_save
+2026-02-05 00:38:24,812 [INFO] CodeEngine:289 - Generated code: C:\Users\JT\Desktop\Colorwars\TLC5947_Serial_System\Core\Src\main.c
+2026-02-05 00:38:25,069 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 85mS.
+2026-02-05 00:38:25,071 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2026-02-05 00:38:25,141 [INFO] ConfigFileManager:1595 - The Die is : DIE421
+2026-02-05 00:38:25,738 [INFO] ProjectBuilder:5496 - Time for Generating toolchain IDE Files: 667mS.
+2026-02-05 00:38:25,738 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:38:25,740 [INFO] ProjectBuilder:3463 - Time for Copy CMSIS : 0mS.
+2026-02-05 00:43:34,110 [INFO] WebApp:194 - Connection lost
+2026-02-05 00:43:34,460 [INFO] WebApp:191 - Connection restablished
+2026-02-05 00:43:34,858 [INFO] WebApp:194 - Connection lost
+2026-02-05 00:43:35,013 [INFO] WebApp:191 - Connection restablished
+2026-02-05 20:47:40,517 [INFO] WebApp:194 - Connection lost
+2026-02-05 20:47:55,064 [INFO] WebApp:191 - Connection restablished
+2026-02-05 20:47:57,631 [INFO] WebApp:194 - Connection lost
+2026-02-05 20:47:57,840 [INFO] WebApp:191 - Connection restablished
